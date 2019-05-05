@@ -18,5 +18,3 @@ Some utils in using
 #### git_change_log.sh
 
 通过git的commit message创建一个change log。
-=======
-通过post请求上传文件，不需要引入新的module
